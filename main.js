@@ -1,0 +1,1 @@
+import {menu,title,enTete,titleH} from "./menu.js"
